@@ -150,6 +150,7 @@ body {
     transition: transform 0.2s, border 0.2s;
     border: 2px solid transparent;
 }
+
   
 .cat-box:hover {
     transform: translateY(-5px);
