@@ -128,6 +128,11 @@ body {
 .all-categories-btn:hover {
     background-color: none;
 }
+
+.nav-link {
+    color: #333;
+    font-weight: 500;
+  }
   
 .subtitle {
     color: #777;
